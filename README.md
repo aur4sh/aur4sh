@@ -17,7 +17,7 @@
 ---
 
 ### ⊛ Metas:
-- [x] Terminar o treinamento da Hackersec
+- [x] Terminar treinamento em Cibersegurança
 - [ ] Obter as certificações CompTIA Security+ e CCNA
 - [x] Desenvolver scans e tarefas automatizadas
 - [ ] Dominar engenharia reversa e desenvolvimento de malwares
