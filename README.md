@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Apresentação, estudos e metas!</h1>
+<br>
+<p align="center">
+  ⊛ Entusiasta de <strong>Computação</strong> e <strong>Tecnologia</strong> <br>
+  ⊛ Estudante e pesquisador em <strong>Cibersegurança</strong> <br>
+  ⊛ Desenvolvimento e infraestrutura web <br>
+  ⊛ Arch Linux | Kali Linux
+</p>
 
-<!--
-**aur4sh/aur4sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⊛ Estudos e Conhecimentos:
+- Python, pentest e redes de computadores
+- Estudando infraestrutura web, automação de scans e linguagens de máquina (C, Assembly)
+- Conhecimento em ferramentas como <strong>Burp Suite</strong>, <strong>Docker</strong>, <strong>Wireshark</strong> e <strong>ambientes Linux</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⊛ Metas:
+- [x] Terminar o treinamento da Hackersec
+- [ ] Obter as certificações CompTIA Security+ e CCNA
+- [x] Desenvolver scans e tarefas automatizadas
+- [ ] Dominar engenharia reversa e desenvolvimento de malwares
+
+---
+- [LinkedIn](https://linkedin.com/in/1fabricio)
+- dc: aur4sh
