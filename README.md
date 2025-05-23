@@ -12,7 +12,7 @@
 ### ⊛ Estudos e Conhecimentos:
 - Python, pentest e redes de computadores
 - Estudando infraestrutura web, automação de scans e linguagens de máquina (C, Assembly)
-- Conhecimento em ferramentas como <strong>Burp Suite</strong>, <strong>Docker</strong>, <strong>Wireshark</strong> e <strong>ambientes Linux</strong>
+- Conhecimento em ferramentas como <strong>Burp Suite</strong>, <strong>Docker</strong>, <strong>Wireshark</strong> e ambientes <strong>Linux</strong>
 
 ---
 - [LinkedIn](https://linkedin.com/in/1fabricio)
