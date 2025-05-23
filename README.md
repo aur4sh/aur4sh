@@ -1,4 +1,4 @@
-<h1 align="center">Apresentação, estudos e metas!</h1>
+<h1 align="center">Sobre mim</h1>
 <br>
 <p align="center">
   ⊛ Entusiasta de <strong>Computação</strong> e <strong>Tecnologia</strong> <br>
@@ -13,14 +13,6 @@
 - Python, pentest e redes de computadores
 - Estudando infraestrutura web, automação de scans e linguagens de máquina (C, Assembly)
 - Conhecimento em ferramentas como <strong>Burp Suite</strong>, <strong>Docker</strong>, <strong>Wireshark</strong> e <strong>ambientes Linux</strong>
-
----
-
-### ⊛ Metas:
-- [x] Terminar treinamento em Cibersegurança
-- [ ] Obter as certificações CompTIA Security+ e CCNA
-- [x] Desenvolver scans e tarefas automatizadas
-- [ ] Dominar engenharia reversa e desenvolvimento de malwares
 
 ---
 - [LinkedIn](https://linkedin.com/in/1fabricio)
